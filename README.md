@@ -270,7 +270,7 @@ material-property-prediction/
 ![Prediction vs Actual](screenshots/p_vs_a.png)
 
 ![Final Table](screenshots/final_table.png)
-```
+
 
 ---
 
