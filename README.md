@@ -257,19 +257,14 @@ material-property-prediction/
 
 ---
 
-# Screenshots
+## Screenshots
 
-## Workflow Diagram
-_Add workflow image here_
+### Workflow Diagram
 
-```md
 ![Workflow](screenshots/methodology.png)
-```
 
-## Performance Comparison
-_Add result graphs here_
+### Performance Comparison
 
-```md
 ![Performance](screenshots/PERFOMANCE.png)
 
 ![Prediction vs Actual](screenshots/P VS A.png)
