@@ -288,8 +288,8 @@ The Hybrid Fusion model achieved the best overall performance by combining the s
 B.Tech – Artificial Intelligence  
 National Institute of Technology Karnataka (NITK), Surathkal
 
-- GitHub: [Dinesh090420](https://github.com/Dinesh090420)
-- LinkedIn: [Dinesh G](https://www.linkedin.com/in/garbhapu-dinesh-140bb6373)
+- GitHub: https://github.com/Dinesh090420
+- LinkedIn: https://www.linkedin.com/in/garbhapu-dinesh-140bb6373
 
 ---
 
