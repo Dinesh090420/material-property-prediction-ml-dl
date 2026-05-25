@@ -263,14 +263,18 @@ material-property-prediction/
 _Add workflow image here_
 
 ```md
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/methodology.png)
 ```
 
 ## Performance Comparison
 _Add result graphs here_
 
 ```md
-![Results](screenshots/results.png)
+![Performance](screenshots/PERFOMANCE.png)
+
+![Prediction vs Actual](screenshots/P VS A.png)
+
+![Final Table](screenshots/FINAL TABLE.png)
 ```
 
 ---
