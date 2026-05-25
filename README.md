@@ -267,9 +267,9 @@ material-property-prediction/
 
 ![Performance](screenshots/PERFOMANCE.png)
 
-![Prediction vs Actual](screenshots/P VS A.png)
+![Prediction vs Actual](screenshots/p_vs_a.png)
 
-![Final Table](screenshots/FINAL TABLE.png)
+![Final Table](screenshots/final_table.png)
 ```
 
 ---
